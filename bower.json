@@ -1,0 +1,24 @@
+{
+  "name": "academy_jules",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Jules"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/Zakui/Academy_Thea",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "bootstrap": "^3.3.7"
+  },
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
