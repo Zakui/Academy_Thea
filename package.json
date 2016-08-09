@@ -8,7 +8,9 @@
   },
   "author": "Jules",
   "license": "MIT",
-  "dependencies": {
-    "grunt": "^1.0.1"
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-contrib-cssmin": "^1.0.1"
   }
 }
